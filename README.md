@@ -1,1 +1,1 @@
-script that create dir my_dir with permission 751
+change the group owner from hello to school
