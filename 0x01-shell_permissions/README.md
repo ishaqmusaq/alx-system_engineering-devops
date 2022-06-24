@@ -1,1 +1,1 @@
-print the effective username of current user
+script that execute multiple permissions to the userand owner
