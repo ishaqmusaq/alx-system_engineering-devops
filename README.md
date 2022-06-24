@@ -1,2 +1,1 @@
-set permissions to the file hello
-set permissions to the files
+set the mode of the file hello
