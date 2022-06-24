@@ -1,1 +1,1 @@
-script that list all files with hidden ones
+ script that prints the type of a file in the /tmp
