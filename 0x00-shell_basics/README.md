@@ -1,1 +1,1 @@
-dislay current directory content in a long fomat
+delete the file betty from /tmp/my_first_directory
