@@ -1,1 +1,1 @@
-script that switchs current user to the user betty
+print the effective user of a current user
