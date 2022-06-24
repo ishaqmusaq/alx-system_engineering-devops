@@ -1,1 +1,1 @@
-print the effective user of a current user
+print all the groups the current user is part
