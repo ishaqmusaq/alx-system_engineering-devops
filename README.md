@@ -1,1 +1,1 @@
-script that add execute permissions
+script add permissions executions to the owner
