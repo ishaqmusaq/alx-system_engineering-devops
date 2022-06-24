@@ -1,1 +1,1 @@
-set mode of file hello as olleh
+script that create dir my_dir with permission 751
