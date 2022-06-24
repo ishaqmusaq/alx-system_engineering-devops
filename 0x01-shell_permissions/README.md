@@ -1,1 +1,1 @@
-script that execute multiple permissions to the userand owner
+add execute permissions toall subdirectories of the current directory of theowner, group owner and others
