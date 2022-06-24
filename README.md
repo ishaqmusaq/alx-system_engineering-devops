@@ -1,1 +1,1 @@
-change the group owner from hello to school
+change owner user and group owner
