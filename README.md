@@ -1,1 +1,1 @@
- script that prints the type of a file in the /tmp
+script that switchs current user to the user betty
