@@ -1,1 +1,1 @@
-change owner user and group owner
+ script that prints "Hello,world" 
